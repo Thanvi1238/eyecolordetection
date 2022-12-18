@@ -1,5 +1,5 @@
 # Eye Color Detection
-
+<h1>college project</h1>
 ## Installation 
 #### Clone the project and install requirements
     $ git clone https://github.com/ghimiredhikura/Eye-Color-Detection
